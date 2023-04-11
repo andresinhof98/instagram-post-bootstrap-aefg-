@@ -1,0 +1,8 @@
+.feed{
+    display: flex !important;
+    justify-content: center !important;
+}
+.right{
+    display: flex;
+    gap: 10px;
+}
